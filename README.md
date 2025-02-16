@@ -1,7 +1,5 @@
 # 📌 LLM Research Paper Annotation  
-**Automating research paper classification using Large Language Models (LLMs) and web scraping**  
-
-![Project Workflow](images/diagram.png)  
+**Automating research paper classification using Large Language Models (LLMs) and web scraping**   
 
 ## 🚀 Project Overview  
 This project automates **research paper annotation** by:  
